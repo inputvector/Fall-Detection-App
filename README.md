@@ -1,0 +1,2 @@
+# Fall-Detection-on-Android-
+This document explains a fall detection software that is developed in Android. The software detects when falls happen by using a deep learning model. The deep learning model was trained by using a simplified version of the UMAFall Dataset. When a fall is detected, the software sends patient information and location data to the server and also has the ability to send SMS.  
